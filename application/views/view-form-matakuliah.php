@@ -24,7 +24,7 @@
                     <input type="text" name="kode" id="kode" placeholder=Required">
                 </td>
             </tr>
-            <?=form_error('kode'); ?>
+            
     <tr>
                 <th>Nama MTK</th>
                 <td>:</td>
@@ -32,7 +32,7 @@
                     <input type="text" name="nama" id="nama" placeholder="Required">
                 </td>
             </tr>
-            <?= form_error('nama'); ?>
+            
             <tr>
                 <th>SKS</th>
             <td>:</td>
